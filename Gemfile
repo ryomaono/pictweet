@@ -50,3 +50,7 @@ gem 'compass-rails','~> 2.0'
 gem 'sprockets', '2.11.0'
 gem 'kaminari'
 gem 'devise'
+gem 'rspec-rails', "~> 3.1.0"
+gem 'rake', '< 11.0'
+
+
