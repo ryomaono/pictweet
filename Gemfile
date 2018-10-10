@@ -56,4 +56,8 @@ gem 'devise'
 gem 'rspec-rails', "~> 3.1.0"
 gem 'rake', '< 11.0'
 
+group :test do
+  gem 'faker'
+end
+
 
